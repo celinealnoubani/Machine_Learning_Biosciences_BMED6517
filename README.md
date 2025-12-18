@@ -213,11 +213,4 @@ Machine_Learning_Biosciences_BMED6517/
 
 ---
 
-## Team
 
-- Celine Al-Noubani
-- Soobin An
-- Sharon Kartika
-- Daniel Lai
-
-Georgia Institute of Technology
